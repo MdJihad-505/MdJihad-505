@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-  &nbsp; WELCOME TO MR. MIND PROFILE &nbsp;
+  &nbsp; WELCOME TO  MD JIHAD HASAN PROFILE &nbsp;
 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
@@ -32,21 +32,21 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/MIND163-XD/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MD JIHAD HASAN/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/MIND163-XD)
+- ![Profile views](https://gpvc.arturio.dev/MD JIHAD HASAN)
 
-- [![GitHub followers](https://img.shields.io/github/followers/MIND163-XD.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/MIND163-XD?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/MD JIHAD HASAN.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/MD JIHAD HASAN?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 > GITHUB STATES :
 
-<a href="https://github.com/MIND163-XD"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MIND163-XD&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/MIND163-XD"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MD JIHAD HASAN &theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MIND163-XD&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MD JIHAD HASAN &theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIND163-XD&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user= MD JIHAD HASAN-XD&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href="https://fb.com/MR.SABBIR.OFFICIAL404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
+<a href="https://fb.com/MD.JIHAD HASAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MD.JIHAD HASAN" height="30" width="40" /></a>
 
-<a href="https://github.com/MIND163-XD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
+<a href="https://github.com/MD.JIHAD HASAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/md.jihad.hasan44" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SABBIR404-CYBER) <a href="https://github.com/SABBIR404-CYBER"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdJihad-505) <a href="https://github.com/MdJihad-505"></a>
 
 </p>
 
@@ -70,11 +70,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://github.com/MIND163-XD/UID-PRO-MAGIC"><img title="UID-PRO-MAGIC" src="https://github-readme-stats.vercel.app/api/pin/?username=MIND163-XD&repo=UID-PRO-MAGIC&theme=vision-friendly-dark"></a>
-
 <p align="center">
-
-<a href="https://github.com/MIND163-XD/File-Pro"><img title="File-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MIND163-XD&repo=File-Pro&theme=vision-friendly-dark"></a>
 
 > DATABASE:
 
