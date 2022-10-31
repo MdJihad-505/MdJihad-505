@@ -24,7 +24,6 @@ WELCOME TO  MD JIHAD HASAN PROFILE
 
 </h3>
 
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:i.imgur.com/nZMQ2rS.jpg)
 
 - ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 
